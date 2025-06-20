@@ -19,6 +19,13 @@ This repository is structured by day-wise folders, each containing:
 
 ## 🗂️ Folder Structure (Example)
 
+BridgeLabz-SIPP-Training/
+├── Day01_HelloWorld/
+├── Day02_DataTypes/
+├── Day03_ControlFlow/
+├── Day04_Loops/
+├── ...
+└── README.md
 
 ## 📌 Highlights
 
@@ -38,3 +45,23 @@ This repository is structured by day-wise folders, each containing:
    ```bash
    git clone https://github.com/Akshatg88/BridgeLabz-SIPP-Training.git
    cd BridgeLabz-SIPP-Training
+Navigate to any folder and compile:
+
+bash
+Copy
+Edit
+javac FileName.java
+java FileName
+Or open it in your IDE and run directly.
+
+🤝 Contributions
+This is a personal learning repo, but suggestions and improvements are always welcome!
+
+📜 License
+This project is licensed under the MIT License.
+
+🙋‍♂️ Author
+Akshat Goyal
+GitHub: @Akshatg88
+
+Feel free to fork and explore!
